@@ -4,7 +4,7 @@ I'm a multi disciplined creative with 10+ years experience working for creative 
 Looking to branch 😉 off & freelance enabling me to travel 🌎
 
 Current obsession: <br> <br>
-<a href="https://obsidian.md/"><img width="60" src="https://kolor-studios.ams3.cdn.digitaloceanspaces.com/KolorStudios/Assets/Github-Icons/obsidian-light.svg"></img></a>
+<a href="https://obsidian.md/"><img width="60" src="https://kolor-studios.ams3.cdn.digitaloceanspaces.com/KolorStudios/Assets/Github-Icons/obsidian-dark.png"></img></a>
 
 
 <!---
